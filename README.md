@@ -4,13 +4,9 @@ Housing shouldn't be a barrier to education.
 
 An open-source, student-led initiative building a more affordable, transparent, and accessible student housing ecosystem across Morocco.
 
-""Status" (https://img.shields.io/badge/Status-Community%20Building-orange)"
-""Open Source" (https://img.shields.io/badge/Open%20Source-Community%20Driven-green)"
-""Contributions" (https://img.shields.io/badge/Contributions-Welcome-brightgreen)"
-
 ---
 
-🌍 About the Project
+ About the Project
 
 Moving to another city to pursue higher education should be an exciting opportunity, not a financial struggle.
 
@@ -27,11 +23,11 @@ We believe access to decent accommodation should not determine whether someone c
 
 Student Housing Morocco aims to address these challenges through a collaborative, open-source platform built by students, for students.
 
-🎯 Our Vision
+ Our Vision
 
 To create a national student housing ecosystem where every student in Morocco can find affordable accommodation, access reliable housing information, and benefit from a supportive community.
 
-🚀 Our Mission
+ Our Mission
 
 To connect students, universities, accommodation providers, and local communities through accessible technology and collective action.
 
@@ -45,13 +41,13 @@ We aim to:
 - Collaborate with universities and student associations.
 - Develop open-source tools that can benefit future generations.
 
-💡 What Are We Building?
+ What Are We Building?
 
 We envision more than a traditional accommodation marketplace.
 
 We are building a Student Housing Network consisting of several interconnected components.
 
-1. 🏠 Student Housing Marketplace
+1.  Student Housing Marketplace
 
 A dedicated space where students can discover:
 
@@ -63,7 +59,7 @@ A dedicated space where students can discover:
 
 Listings will provide relevant information, including rental prices, location, photographs, availability, and accommodation conditions.
 
-2. 📊 Rental Price Transparency
+2.  Rental Price Transparency
 
 Students should have access to meaningful rental information before making decisions.
 
@@ -77,7 +73,7 @@ We aim to develop a community-driven rental information system that allows stude
 
 Our objective is not to impose rental prices but to provide transparent, contextual information.
 
-3. 👥 Roommate Matching
+3.  Roommate Matching
 
 Finding accommodation is easier when students can connect with others.
 
@@ -88,7 +84,7 @@ We aim to facilitate connections between students looking to:
 - Divide rental expenses.
 - Form accommodation groups.
 
-4. 🤝 Student-to-Student Solidarity
+4.  Student-to-Student Solidarity
 
 Students who have already lived in a city possess valuable knowledge.
 
@@ -100,7 +96,7 @@ We want to create a system where graduating students and former residents can he
 - Practical city information.
 - Advice about university life.
 
-5. 🗺️ Student City Guide
+5.  Student City Guide
 
 Moving to a new city involves more than finding a room.
 
@@ -126,7 +122,7 @@ We aim to establish relationships with:
 - Responsible accommodation providers.
 - Public institutions and potential partners.
 
-📍 Launch Strategy
+ Launch Strategy
 
 National vision. Local implementation.
 
@@ -161,7 +157,7 @@ Important: This stack is a starting proposal. Technical decisions will be discus
 
 We will initially favor a modular monolithic architecture to keep development accessible and maintenance manageable.
 
-🌱 Project Roadmap
+ Project Roadmap
 
 We are currently in the community-building and research stage.
 
@@ -177,7 +173,7 @@ Phase 8| Expand to other Moroccan cities| Future
 
 Our first priority is understanding the problem correctly before developing the solution.
 
-🤝 Join the Initiative
+ Join the Initiative
 
 You don't have to be a developer to contribute.
 
@@ -212,7 +208,7 @@ We welcome contributions regardless of experience level.
 
 Start here: "CONTRIBUTING.md" (CONTRIBUTING.md)
 
-🌐 Open Source & Community Governance
+ Open Source & Community Governance
 
 This initiative is intended to be community-driven and transparent.
 
@@ -230,7 +226,7 @@ We intend to use an open-source license that encourages improvements to remain a
 
 Project governance and licensing details will be finalized before the first software release.
 
-🔐 Trust, Safety & Privacy
+ Trust, Safety & Privacy
 
 Student safety is a fundamental requirement.
 
@@ -248,7 +244,7 @@ We will consider applicable Moroccan data protection requirements, including Law
 
 The platform will not guarantee the safety of a property or transaction simply because a listing appears on it.
 
-📢 Our Principles
+ Our Principles
 
 We believe in:
 
@@ -264,7 +260,7 @@ Open Source: Knowledge and technology can be shared to create a greater social i
 
 Sustainability: The initiative should serve future generations, not just its founding contributors.
 
-📬 Connect With Us
+ Connect With Us
 
 We are at the beginning of this journey, and the community will help shape what comes next.
 
@@ -278,7 +274,7 @@ For questions, suggestions, partnerships, or collaboration opportunities, open a
 
 ---
 
-❤️ A Message to Future Contributors
+ A Message to Future Contributors
 
 Imagine arriving in a city where you know nobody.
 
