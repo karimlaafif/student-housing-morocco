@@ -264,8 +264,8 @@ Sustainability: The initiative should serve future generations, not just its fou
 
 We are at the beginning of this journey, and the community will help shape what comes next.
 
-- GitHub: "Project Repository" (https://github.com/YOUR-USERNAME/student-housing-morocco)
-- Instagram: Coming soon
+- GitHub: "Project Repository" (https://github.com/karimlaafif/student-housing-morocco)
+- Instagram: k.l44f1f
 - TikTok: Coming soon
 - Community: Coming soon
 - Contact: Coming soon
